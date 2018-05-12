@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24300#La-danse-macabre-des-femmesbeaux-dictz-en-latin-et-francoys
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2008-01-15'
 gutenberg_type: Text
